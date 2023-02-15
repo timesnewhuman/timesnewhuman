@@ -1,6 +1,6 @@
 ### Hello world! 👋
 
-Hello there, welcome to my GitHub profile! My name is Tuan. I am a computer engineer, entrepreneur, and technology researcher with a passion for creating cutting-edge solutions that empower people to achieve their goals. Since I was young, I have pondered the ways to make systems which can scale and impact people on a global scale.
+Hello there, welcome to my GitHub profile! My name is Tuan. I am a computer engineer, entrepreneur, and technology contributor with a passion for creating cutting-edge solutions that empower people to achieve their goals. Since I was young, I have pondered the ways to make systems which can scale and impact people on a global scale.
 
 I have an appreciation for arts, media, and communication. I believe that robots and artificial intelligence are human creations which serve to augment the human experience. Through art and art history, we can gain an understanding of what it means to be human.
 
