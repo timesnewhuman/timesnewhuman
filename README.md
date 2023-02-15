@@ -2,7 +2,7 @@
 
 Hello there, welcome to my GitHub profile! My name is Tuan. I am a computer engineer, entrepreneur, and technology contributor with a passion for creating cutting-edge solutions that empower people to achieve their goals. Since I was young, I have pondered the ways to make systems which can scale and impact people on a global scale.
 
-I have an appreciation for arts, media, and communication. I believe that robots and artificial intelligence are human creations which serve to augment the human experience. Through art and art history, we can gain an understanding of what it means to be human.
+I have an appreciation for arts, media, and communication. I believe that robots and artificial intelligence are human creations which serve to augment the human experience. With an understanding of art and art history, we can revere the human experience when we create technology.
 
 My primary goal is to build software tools, libraries, and infrastructure that deliver the most value to those around me. I'm a firm believer that technology has the power to transform lives, and I strive to create innovative solutions that make a positive impact on society. I have a broad appreciation for world cultures, which I believe helps me create technology that is universally valuable.
 
