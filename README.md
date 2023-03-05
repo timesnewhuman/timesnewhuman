@@ -1,24 +1,3 @@
-### Hello world! 👋
+Hello world! My name is Tuan.
 
-Hello there, welcome to my GitHub profile! My name is Tuan. I am a computer engineer, entrepreneur, and technology contributor with a passion for creating cutting-edge solutions that empower people to achieve their goals. Since I was young, I have pondered the ways to make systems which can scale and impact people on a global scale.
-
-I have an appreciation for arts, media, and communication. I believe that robots and artificial intelligence are human creations which serve to augment the human experience. With an understanding of art and art history, we can revere the human experience when we create technology.
-
-My primary goal is to build software tools, libraries, and infrastructure that deliver the most value to those around me. I'm a firm believer that technology has the power to transform lives, and I strive to create innovative solutions that make a positive impact on society. I have a broad appreciation for world cultures, which I believe helps me create technology that is universally valuable.
-
-With my extensive experience in software development and entrepreneurship, I'm confident in my ability to bring a unique and valuable perspective to any project. I am constantly looking for new challenges and opportunities to innovate, and I'm excited to collaborate with like-minded individuals to push the boundaries of what's possible. Thank you for taking the time to check out my profile, and feel free to reach out to me if you'd like to learn more about my work!
-
-<!--
-**timesnewhuman/timesnewhuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on automation and AI to improve the human experience.
