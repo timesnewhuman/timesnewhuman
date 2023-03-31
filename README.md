@@ -1,3 +1,5 @@
 Hello world! My name is Tuan.
 
-I focus on automation and AI to improve the human experience.
+I am a computer engineer and software developer.
+
+My username is timesnewhuman. I spend a lot of time thinking about what that means.
