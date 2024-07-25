@@ -1,20 +1,11 @@
-## Hi there 👋
+## hello world
 
-I'm currently working on...
-
-[machine learning](https://github.com/timesnewhuman/machinelearning.github.io)
-
-<!--
-**timesnewhuman/timesnewhuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests:
+* [machine learning](https://github.com/timesnewhuman/machinelearning.github.io)
+* mind-mapping
+* utilizing a second brain
+* automated agents
+* reinforcement learning
+* game theory
+* visual arts
+* communication
