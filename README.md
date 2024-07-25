@@ -1,12 +1,20 @@
 # hello world
 
-I'm currently working on:
+#### reinforcement learning
 
 * [hyperparameter optimization](https://github.com/timesnewhuman/machinelearning.github.io)
-* mind-mapping
-* utilizing a second brain
-* automated agents
-* reinforcement learning
 * game theory
-* visual arts
-* communication
+
+
+#### data structures
+
+* mind-mapping
+* a second brain
+
+
+#### humanities
+
+* history
+* the future
+
+
