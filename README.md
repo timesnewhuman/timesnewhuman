@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm currently working on...
+
+[machine learning](https://github.com/timesnewhuman/machinelearning.github.io)
+
 <!--
 **timesnewhuman/timesnewhuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
