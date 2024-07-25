@@ -3,7 +3,6 @@
 #### reinforcement learning
 
 * [hyperparameter optimization](https://github.com/timesnewhuman/machinelearning.github.io)
-* game theory
 
 
 #### data structures
@@ -18,3 +17,8 @@
 * the future
 
 
+I | LIKE | TABLES | TOO
+-|-|-|-
+A|B|C|D
+1|2|3|4
+♠|♣|♦|♥
