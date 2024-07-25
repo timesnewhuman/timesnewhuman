@@ -1,6 +1,7 @@
-## hello world
+# hello world
 
-Interests:
+I'm currently working on:
+
 * [hyperparameter optimization](https://github.com/timesnewhuman/machinelearning.github.io)
 * mind-mapping
 * utilizing a second brain
