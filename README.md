@@ -1,7 +1,7 @@
 ## hello world
 
 Interests:
-* [machine learning](https://github.com/timesnewhuman/machinelearning.github.io)
+* [hyperparameter optimization](https://github.com/timesnewhuman/machinelearning.github.io)
 * mind-mapping
 * utilizing a second brain
 * automated agents
