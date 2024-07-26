@@ -1,6 +1,6 @@
 <h1 align="center">timesnewhuman</h1>
 <div align="center" style="width: 200px;">
-  <img src="https://github.com/timesnewhuman/machinelearning.github.io/blob/main/bayesian_bandit.gif">
+  <a href="https://github.com/timesnewhuman/machinelearning.github.io"><img src="https://github.com/timesnewhuman/machinelearning.github.io/blob/main/bayesian_bandit.gif"></a>
   <a href=""><h4>reinforcement learning</h4></a>
 </div>
 <div align="center" style="width: 200px;">
